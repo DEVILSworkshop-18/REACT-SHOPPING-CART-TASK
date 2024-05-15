@@ -1,0 +1,8 @@
+.cardRemoveFromCart:hover{
+    background-color: red;
+color: white;
+}
+.cardAddToCard:hover{
+    background-color: green;
+    color: white;
+}
